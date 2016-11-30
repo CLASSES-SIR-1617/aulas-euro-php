@@ -1,2 +1,2 @@
 #EUROMILHÔES
-Geração de Chaves (JSON) em PHP
+Geração de Chaves do Euromilhões (JSON) em PHP
